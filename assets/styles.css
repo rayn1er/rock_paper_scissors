@@ -62,3 +62,14 @@ button:hover {
     box-shadow: 4px 2px 10px #fff;
 }
 
+.results {
+    display: flex;
+    gap: 12px 10px;
+}
+
+.gamedisplay {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-direction: column;
+}
